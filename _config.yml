@@ -1,0 +1,14 @@
+title: Apple API Errata
+email: robin.kunde@recoursive.com
+description: >-
+  Unofficial errata for Apple frameworks and APIs
+baseurl: "/AppleAPIErrata"
+url: "https://robinkunde.github.io"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+
+category-list: [Foundation, UIKit]
