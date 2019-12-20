@@ -4,6 +4,7 @@ description: >-
   Unofficial errata for Apple frameworks and APIs
 baseurl: "/AppleAPIErrata"
 url: "https://robinkunde.github.io"
+repository: robinkunde/AppleAPIErrata.git
 
 # Build settings
 markdown: kramdown
@@ -11,4 +12,4 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
-category-list: [Foundation, UIKit]
+category-list: [Foundation, UIKit, Xcode]
